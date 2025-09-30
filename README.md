@@ -45,9 +45,9 @@ Currently, I'm sharpening my skills in Python, C, Java, JavaScript, and HTML, wh
 
 ## 📈 GitHub Stats
 
-![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hk-Hemant&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hk-Hemant&layout=compact&theme=radical)
 
 ---
 
