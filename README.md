@@ -1,7 +1,7 @@
 # hk-Hemant
 # 👋 Hi, I'm Hemant
 
-🎓 Computer Science Engineering student | 💻 Aspiring Developer | 🤖 Generative AI Enthusiast
+🎓 Computer Science Engineering student | 💻 Aspiring Developer | 🤖 Generative AI Enthusiast | Cyber Security 🧑‍💻
 
 ---
 
